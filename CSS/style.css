@@ -19,7 +19,7 @@ header{
 }
 .hero__box{
    padding-top: 100px;
-   padding-left: 160px;
+   padding-left: 100px;
    padding-bottom: 120px;
 }
 .hero__title{
@@ -30,7 +30,7 @@ header{
 }
 .card{
     width: 350px;
-    margin-left: 160px;
+    margin-left: 100px;
     display: flex;
     justify-content: center;
 }
