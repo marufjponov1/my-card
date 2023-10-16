@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.conatiner{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+header{
+    background-color: rgb(52, 52, 52);
+}
+.hero{
+    background-color: rgb(237, 237, 237);
+    
+}
+.hero__box{
+   padding-top: 100px;
+   padding-left: 160px;
+   padding-bottom: 120px;
+}
+.hero__title{
+    font-size: 50px;
+}
+.hero__info{
+    font-size: 12px;
+}
+.card__body{
+    margin-top: 80px;
+}
+.card__body:nth-child(2){
+    margin-top: -269px;
+    width: 350px;
+    margin-left: 380px;
+}
+.card__body:nth-child(3){
+    width: 350px;
+    margin-left: 760px;
+    margin-top: -268px;
+} 
+.info{
+    width: 1100px;
+    height: 2px;
+    background-color: rgb(203, 203, 203);
+    margin-top: 50px;
+    margin-left: 160px;
+}
