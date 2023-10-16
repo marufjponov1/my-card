@@ -28,6 +28,12 @@ header{
 .hero__info{
     font-size: 12px;
 }
+.card{
+    width: 350px;
+    margin-left: 160px;
+    display: flex;
+    justify-content: center;
+}
 .card__body{
     margin-top: 80px;
 }
